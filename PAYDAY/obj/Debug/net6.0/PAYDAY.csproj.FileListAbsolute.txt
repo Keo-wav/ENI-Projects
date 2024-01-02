@@ -1,0 +1,15 @@
+D:\C-Sharp-Projects\PAYDAY\bin\Debug\net6.0\PAYDAY.exe
+D:\C-Sharp-Projects\PAYDAY\bin\Debug\net6.0\PAYDAY.deps.json
+D:\C-Sharp-Projects\PAYDAY\bin\Debug\net6.0\PAYDAY.runtimeconfig.json
+D:\C-Sharp-Projects\PAYDAY\bin\Debug\net6.0\PAYDAY.dll
+D:\C-Sharp-Projects\PAYDAY\bin\Debug\net6.0\PAYDAY.pdb
+D:\C-Sharp-Projects\PAYDAY\obj\Debug\net6.0\PAYDAY.csproj.AssemblyReference.cache
+D:\C-Sharp-Projects\PAYDAY\obj\Debug\net6.0\PAYDAY.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Sharp-Projects\PAYDAY\obj\Debug\net6.0\PAYDAY.AssemblyInfoInputs.cache
+D:\C-Sharp-Projects\PAYDAY\obj\Debug\net6.0\PAYDAY.AssemblyInfo.cs
+D:\C-Sharp-Projects\PAYDAY\obj\Debug\net6.0\PAYDAY.csproj.CoreCompileInputs.cache
+D:\C-Sharp-Projects\PAYDAY\obj\Debug\net6.0\PAYDAY.dll
+D:\C-Sharp-Projects\PAYDAY\obj\Debug\net6.0\refint\PAYDAY.dll
+D:\C-Sharp-Projects\PAYDAY\obj\Debug\net6.0\PAYDAY.pdb
+D:\C-Sharp-Projects\PAYDAY\obj\Debug\net6.0\PAYDAY.genruntimeconfig.cache
+D:\C-Sharp-Projects\PAYDAY\obj\Debug\net6.0\ref\PAYDAY.dll

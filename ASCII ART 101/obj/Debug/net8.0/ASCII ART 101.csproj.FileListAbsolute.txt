@@ -1,0 +1,14 @@
+D:\C-Sharp-Projects\ASCII ART 101\bin\Debug\net8.0\ASCII ART 101.exe
+D:\C-Sharp-Projects\ASCII ART 101\bin\Debug\net8.0\ASCII ART 101.deps.json
+D:\C-Sharp-Projects\ASCII ART 101\bin\Debug\net8.0\ASCII ART 101.runtimeconfig.json
+D:\C-Sharp-Projects\ASCII ART 101\bin\Debug\net8.0\ASCII ART 101.dll
+D:\C-Sharp-Projects\ASCII ART 101\bin\Debug\net8.0\ASCII ART 101.pdb
+D:\C-Sharp-Projects\ASCII ART 101\obj\Debug\net8.0\ASCII ART 101.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Sharp-Projects\ASCII ART 101\obj\Debug\net8.0\ASCII ART 101.AssemblyInfoInputs.cache
+D:\C-Sharp-Projects\ASCII ART 101\obj\Debug\net8.0\ASCII ART 101.AssemblyInfo.cs
+D:\C-Sharp-Projects\ASCII ART 101\obj\Debug\net8.0\ASCII ART 101.csproj.CoreCompileInputs.cache
+D:\C-Sharp-Projects\ASCII ART 101\obj\Debug\net8.0\ASCII ART 101.dll
+D:\C-Sharp-Projects\ASCII ART 101\obj\Debug\net8.0\refint\ASCII ART 101.dll
+D:\C-Sharp-Projects\ASCII ART 101\obj\Debug\net8.0\ASCII ART 101.pdb
+D:\C-Sharp-Projects\ASCII ART 101\obj\Debug\net8.0\ASCII ART 101.genruntimeconfig.cache
+D:\C-Sharp-Projects\ASCII ART 101\obj\Debug\net8.0\ref\ASCII ART 101.dll

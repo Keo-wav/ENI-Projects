@@ -1,0 +1,15 @@
+D:\C-Sharp-Projects\CookTime\bin\Debug\net6.0\CookTime.exe
+D:\C-Sharp-Projects\CookTime\bin\Debug\net6.0\CookTime.deps.json
+D:\C-Sharp-Projects\CookTime\bin\Debug\net6.0\CookTime.runtimeconfig.json
+D:\C-Sharp-Projects\CookTime\bin\Debug\net6.0\CookTime.dll
+D:\C-Sharp-Projects\CookTime\bin\Debug\net6.0\CookTime.pdb
+D:\C-Sharp-Projects\CookTime\obj\Debug\net6.0\CookTime.csproj.AssemblyReference.cache
+D:\C-Sharp-Projects\CookTime\obj\Debug\net6.0\CookTime.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Sharp-Projects\CookTime\obj\Debug\net6.0\CookTime.AssemblyInfoInputs.cache
+D:\C-Sharp-Projects\CookTime\obj\Debug\net6.0\CookTime.AssemblyInfo.cs
+D:\C-Sharp-Projects\CookTime\obj\Debug\net6.0\CookTime.csproj.CoreCompileInputs.cache
+D:\C-Sharp-Projects\CookTime\obj\Debug\net6.0\CookTime.dll
+D:\C-Sharp-Projects\CookTime\obj\Debug\net6.0\refint\CookTime.dll
+D:\C-Sharp-Projects\CookTime\obj\Debug\net6.0\CookTime.pdb
+D:\C-Sharp-Projects\CookTime\obj\Debug\net6.0\CookTime.genruntimeconfig.cache
+D:\C-Sharp-Projects\CookTime\obj\Debug\net6.0\ref\CookTime.dll

@@ -1,0 +1,14 @@
+D:\C-Sharp-Projects\THE HARE AND THE TURTLE\bin\Debug\net8.0\THE HARE AND THE TURTLE.exe
+D:\C-Sharp-Projects\THE HARE AND THE TURTLE\bin\Debug\net8.0\THE HARE AND THE TURTLE.deps.json
+D:\C-Sharp-Projects\THE HARE AND THE TURTLE\bin\Debug\net8.0\THE HARE AND THE TURTLE.runtimeconfig.json
+D:\C-Sharp-Projects\THE HARE AND THE TURTLE\bin\Debug\net8.0\THE HARE AND THE TURTLE.dll
+D:\C-Sharp-Projects\THE HARE AND THE TURTLE\bin\Debug\net8.0\THE HARE AND THE TURTLE.pdb
+D:\C-Sharp-Projects\THE HARE AND THE TURTLE\obj\Debug\net8.0\THE HARE AND THE TURTLE.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Sharp-Projects\THE HARE AND THE TURTLE\obj\Debug\net8.0\THE HARE AND THE TURTLE.AssemblyInfoInputs.cache
+D:\C-Sharp-Projects\THE HARE AND THE TURTLE\obj\Debug\net8.0\THE HARE AND THE TURTLE.AssemblyInfo.cs
+D:\C-Sharp-Projects\THE HARE AND THE TURTLE\obj\Debug\net8.0\THE HARE AND THE TURTLE.csproj.CoreCompileInputs.cache
+D:\C-Sharp-Projects\THE HARE AND THE TURTLE\obj\Debug\net8.0\THE HARE AND THE TURTLE.dll
+D:\C-Sharp-Projects\THE HARE AND THE TURTLE\obj\Debug\net8.0\refint\THE HARE AND THE TURTLE.dll
+D:\C-Sharp-Projects\THE HARE AND THE TURTLE\obj\Debug\net8.0\THE HARE AND THE TURTLE.pdb
+D:\C-Sharp-Projects\THE HARE AND THE TURTLE\obj\Debug\net8.0\THE HARE AND THE TURTLE.genruntimeconfig.cache
+D:\C-Sharp-Projects\THE HARE AND THE TURTLE\obj\Debug\net8.0\ref\THE HARE AND THE TURTLE.dll

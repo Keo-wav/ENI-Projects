@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuelMedecinApp", "QuelMedecinApp.csproj", "{35254B49-C0D6-49AA-A011-99EE8B9010E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BO", "..\BO\BO.csproj", "{8F66BE30-0BC9-4BC9-82C9-F296EC70A9AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35254B49-C0D6-49AA-A011-99EE8B9010E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35254B49-C0D6-49AA-A011-99EE8B9010E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35254B49-C0D6-49AA-A011-99EE8B9010E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35254B49-C0D6-49AA-A011-99EE8B9010E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F66BE30-0BC9-4BC9-82C9-F296EC70A9AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F66BE30-0BC9-4BC9-82C9-F296EC70A9AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F66BE30-0BC9-4BC9-82C9-F296EC70A9AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F66BE30-0BC9-4BC9-82C9-F296EC70A9AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {052242D8-257F-4D08-BD5B-8F3E38B45699}
+	EndGlobalSection
+EndGlobal

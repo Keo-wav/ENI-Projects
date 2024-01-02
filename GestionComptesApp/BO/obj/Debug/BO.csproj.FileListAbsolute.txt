@@ -1,0 +1,6 @@
+D:\C-Sharp-Projects\GestionComptesApp\BO\bin\Debug\GestionComptes.BO.dll
+D:\C-Sharp-Projects\GestionComptesApp\BO\bin\Debug\GestionComptes.BO.pdb
+D:\C-Sharp-Projects\GestionComptesApp\BO\obj\Debug\BO.csproj.AssemblyReference.cache
+D:\C-Sharp-Projects\GestionComptesApp\BO\obj\Debug\BO.csproj.CoreCompileInputs.cache
+D:\C-Sharp-Projects\GestionComptesApp\BO\obj\Debug\GestionComptes.BO.dll
+D:\C-Sharp-Projects\GestionComptesApp\BO\obj\Debug\GestionComptes.BO.pdb

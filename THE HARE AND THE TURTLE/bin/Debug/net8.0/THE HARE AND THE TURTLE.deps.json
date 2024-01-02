@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "THE HARE AND THE TURTLE/1.0.0": {
+        "runtime": {
+          "THE HARE AND THE TURTLE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "THE HARE AND THE TURTLE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

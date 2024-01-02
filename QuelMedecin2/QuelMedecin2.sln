@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuelMedecin2", "QuelMedecin2.csproj", "{F6038F38-EF5C-4A46-90ED-A13889C341AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuelMedecin2.BO", "..\QuelMedecin2.BO\QuelMedecin2.BO.csproj", "{4C092C55-357B-4FA2-A3BB-A94B91093F9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6038F38-EF5C-4A46-90ED-A13889C341AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6038F38-EF5C-4A46-90ED-A13889C341AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6038F38-EF5C-4A46-90ED-A13889C341AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6038F38-EF5C-4A46-90ED-A13889C341AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C092C55-357B-4FA2-A3BB-A94B91093F9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C092C55-357B-4FA2-A3BB-A94B91093F9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C092C55-357B-4FA2-A3BB-A94B91093F9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C092C55-357B-4FA2-A3BB-A94B91093F9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0872AE61-C25B-4A8E-AF0D-4B44BC7A4E31}
+	EndGlobalSection
+EndGlobal

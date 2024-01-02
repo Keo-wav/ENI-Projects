@@ -1,0 +1,15 @@
+D:\C-Sharp-Projects\DEMO_C_SHARP_01\bin\Debug\net6.0\DEMO_C_SHARP_01.exe
+D:\C-Sharp-Projects\DEMO_C_SHARP_01\bin\Debug\net6.0\DEMO_C_SHARP_01.deps.json
+D:\C-Sharp-Projects\DEMO_C_SHARP_01\bin\Debug\net6.0\DEMO_C_SHARP_01.runtimeconfig.json
+D:\C-Sharp-Projects\DEMO_C_SHARP_01\bin\Debug\net6.0\DEMO_C_SHARP_01.dll
+D:\C-Sharp-Projects\DEMO_C_SHARP_01\bin\Debug\net6.0\DEMO_C_SHARP_01.pdb
+D:\C-Sharp-Projects\DEMO_C_SHARP_01\obj\Debug\net6.0\DEMO_C_SHARP_01.csproj.AssemblyReference.cache
+D:\C-Sharp-Projects\DEMO_C_SHARP_01\obj\Debug\net6.0\DEMO_C_SHARP_01.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Sharp-Projects\DEMO_C_SHARP_01\obj\Debug\net6.0\DEMO_C_SHARP_01.AssemblyInfoInputs.cache
+D:\C-Sharp-Projects\DEMO_C_SHARP_01\obj\Debug\net6.0\DEMO_C_SHARP_01.AssemblyInfo.cs
+D:\C-Sharp-Projects\DEMO_C_SHARP_01\obj\Debug\net6.0\DEMO_C_SHARP_01.csproj.CoreCompileInputs.cache
+D:\C-Sharp-Projects\DEMO_C_SHARP_01\obj\Debug\net6.0\DEMO_C_SHARP_01.dll
+D:\C-Sharp-Projects\DEMO_C_SHARP_01\obj\Debug\net6.0\refint\DEMO_C_SHARP_01.dll
+D:\C-Sharp-Projects\DEMO_C_SHARP_01\obj\Debug\net6.0\DEMO_C_SHARP_01.pdb
+D:\C-Sharp-Projects\DEMO_C_SHARP_01\obj\Debug\net6.0\DEMO_C_SHARP_01.genruntimeconfig.cache
+D:\C-Sharp-Projects\DEMO_C_SHARP_01\obj\Debug\net6.0\ref\DEMO_C_SHARP_01.dll

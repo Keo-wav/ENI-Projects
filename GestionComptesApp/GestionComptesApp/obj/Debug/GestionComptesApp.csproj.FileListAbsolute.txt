@@ -1,0 +1,10 @@
+D:\C-Sharp-Projects\GestionComptesApp\GestionComptesApp\bin\Debug\GestionComptesApp.exe.config
+D:\C-Sharp-Projects\GestionComptesApp\GestionComptesApp\bin\Debug\GestionComptesApp.exe
+D:\C-Sharp-Projects\GestionComptesApp\GestionComptesApp\bin\Debug\GestionComptesApp.pdb
+D:\C-Sharp-Projects\GestionComptesApp\GestionComptesApp\bin\Debug\GestionComptes.BO.dll
+D:\C-Sharp-Projects\GestionComptesApp\GestionComptesApp\bin\Debug\GestionComptes.BO.pdb
+D:\C-Sharp-Projects\GestionComptesApp\GestionComptesApp\obj\Debug\GestionComptesApp.csproj.AssemblyReference.cache
+D:\C-Sharp-Projects\GestionComptesApp\GestionComptesApp\obj\Debug\GestionComptesApp.csproj.CoreCompileInputs.cache
+D:\C-Sharp-Projects\GestionComptesApp\GestionComptesApp\obj\Debug\GestionComptesApp.csproj.CopyComplete
+D:\C-Sharp-Projects\GestionComptesApp\GestionComptesApp\obj\Debug\GestionComptesApp.exe
+D:\C-Sharp-Projects\GestionComptesApp\GestionComptesApp\obj\Debug\GestionComptesApp.pdb

@@ -1,0 +1,15 @@
+D:\C-Sharp-Projects\VENDING MACHINE\bin\Release\net6.0\VENDING MACHINE.exe
+D:\C-Sharp-Projects\VENDING MACHINE\bin\Release\net6.0\VENDING MACHINE.deps.json
+D:\C-Sharp-Projects\VENDING MACHINE\bin\Release\net6.0\VENDING MACHINE.runtimeconfig.json
+D:\C-Sharp-Projects\VENDING MACHINE\bin\Release\net6.0\VENDING MACHINE.dll
+D:\C-Sharp-Projects\VENDING MACHINE\bin\Release\net6.0\VENDING MACHINE.pdb
+D:\C-Sharp-Projects\VENDING MACHINE\obj\Release\net6.0\VENDING MACHINE.csproj.AssemblyReference.cache
+D:\C-Sharp-Projects\VENDING MACHINE\obj\Release\net6.0\VENDING MACHINE.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Sharp-Projects\VENDING MACHINE\obj\Release\net6.0\VENDING MACHINE.AssemblyInfoInputs.cache
+D:\C-Sharp-Projects\VENDING MACHINE\obj\Release\net6.0\VENDING MACHINE.AssemblyInfo.cs
+D:\C-Sharp-Projects\VENDING MACHINE\obj\Release\net6.0\VENDING MACHINE.csproj.CoreCompileInputs.cache
+D:\C-Sharp-Projects\VENDING MACHINE\obj\Release\net6.0\VENDING MACHINE.dll
+D:\C-Sharp-Projects\VENDING MACHINE\obj\Release\net6.0\refint\VENDING MACHINE.dll
+D:\C-Sharp-Projects\VENDING MACHINE\obj\Release\net6.0\VENDING MACHINE.pdb
+D:\C-Sharp-Projects\VENDING MACHINE\obj\Release\net6.0\VENDING MACHINE.genruntimeconfig.cache
+D:\C-Sharp-Projects\VENDING MACHINE\obj\Release\net6.0\ref\VENDING MACHINE.dll

@@ -1,0 +1,11 @@
+D:\C-Sharp-Projects\BO\bin\Debug\net8.0\QuelMedecin.BO.deps.json
+D:\C-Sharp-Projects\BO\bin\Debug\net8.0\QuelMedecin.BO.dll
+D:\C-Sharp-Projects\BO\bin\Debug\net8.0\QuelMedecin.BO.pdb
+D:\C-Sharp-Projects\BO\obj\Debug\net8.0\BO.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Sharp-Projects\BO\obj\Debug\net8.0\BO.AssemblyInfoInputs.cache
+D:\C-Sharp-Projects\BO\obj\Debug\net8.0\BO.AssemblyInfo.cs
+D:\C-Sharp-Projects\BO\obj\Debug\net8.0\BO.csproj.CoreCompileInputs.cache
+D:\C-Sharp-Projects\BO\obj\Debug\net8.0\QuelMedecin.BO.dll
+D:\C-Sharp-Projects\BO\obj\Debug\net8.0\refint\QuelMedecin.BO.dll
+D:\C-Sharp-Projects\BO\obj\Debug\net8.0\QuelMedecin.BO.pdb
+D:\C-Sharp-Projects\BO\obj\Debug\net8.0\ref\QuelMedecin.BO.dll
