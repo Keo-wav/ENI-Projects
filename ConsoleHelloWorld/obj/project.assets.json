@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C-Sharp-Projects\\ConsoleHelloWorld\\ConsoleHelloWorld.csproj",
+      "projectUniqueName": "D:\\C-Sharp-Projects\\ENI-Projects\\ConsoleHelloWorld\\ConsoleHelloWorld.csproj",
       "projectName": "ConsoleHelloWorld",
-      "projectPath": "D:\\C-Sharp-Projects\\ConsoleHelloWorld\\ConsoleHelloWorld.csproj",
+      "projectPath": "D:\\C-Sharp-Projects\\ENI-Projects\\ConsoleHelloWorld\\ConsoleHelloWorld.csproj",
       "packagesPath": "C:\\Users\\nnackphouminh2023\\.nuget\\packages\\",
-      "outputPath": "D:\\C-Sharp-Projects\\ConsoleHelloWorld\\obj\\",
+      "outputPath": "D:\\C-Sharp-Projects\\ENI-Projects\\ConsoleHelloWorld\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nnackphouminh2023\\AppData\\Roaming\\NuGet\\NuGet.Config",
