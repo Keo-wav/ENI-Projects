@@ -1,7 +1,10 @@
-﻿Console.WriteLine("Hello, World!");
+﻿
+Console.WriteLine("Hello, World!");
 
+string userReply;
+do
+{
 Console.WriteLine("Type anything :");
-string? userReply = Console.ReadLine();
-
+userReply = Console.ReadLine();
 Console.WriteLine("you wrote " + userReply);
-
+} while (userReply != "N");
