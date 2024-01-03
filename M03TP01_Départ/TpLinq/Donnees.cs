@@ -38,7 +38,6 @@ namespace TpLinq {
         public void Requetes() {
 
             // METHODO
-
             // 1 - QU'EST-CE QU'ON PREND
             // 2 - QU'EST-CE AFFICHE
             // 3 - QU'EST-CE GARDE
@@ -46,135 +45,94 @@ namespace TpLinq {
             // 1 - Afficher les livres écrits par Thierry RICHARD
             Console.WriteLine("Afficher les livres écrits par Thierry RICHARD :");
             Console.WriteLine("");
-
-            var LivresThierry =
-                from livre in ListeLivres
-                where livre.Auteur.Nom == "RICHARD" && livre.Auteur.Prenom == "Thierry"
-                select livre;
-
-            foreach (var livreThierry in LivresThierry)
+            var LivresTr = ListeLivres.Where(x => x.Auteur.Nom == "RICHARD" && x.Auteur.Prenom == "Thierry");
+            foreach (var livre in LivresTr)
             {
-                Console.WriteLine($"Thierry RICHARD : {livreThierry.Titre}");
+                Console.WriteLine(livre.Titre);
             }
-            
+            Console.WriteLine("---------------------------------------------------------------");
             Console.WriteLine("");
 
             // 2 - Afficher la liste des noms des auteurs dont le prénom se termine par "y"
             Console.WriteLine("Afficher la liste des noms des auteurs dont le prénom se termine par \"y\" :");
             Console.WriteLine("");
-
-            var AuthorsY = 
-                from auteur in ListeAuteurs
-                where auteur.Prenom.EndsWith("y")
-                select auteur;
-
-            foreach (var auteur in AuthorsY)
+            var AuteurY = ListeAuteurs.Where(x => x.Prenom.EndsWith("y"));
+            foreach (var auteur in AuteurY)
             {
                 Console.WriteLine($"{auteur.Prenom} {auteur.Nom}");
             }
-
             Console.WriteLine("---------------------------------------------------------------");
+            Console.WriteLine("");
 
             // 3 - 
             Console.WriteLine("Afficher les titres de tous les livres triés par ordre alphabétique :");
             Console.WriteLine("");
-
-            var SortedBooks = ListeLivres.OrderBy(b => b.Titre);
-            foreach (var book in SortedBooks)
+            var LivresTries = ListeLivres.OrderBy(x => x.Titre);
+            foreach (var livre in LivresTries)
             {
-                Console.WriteLine($"{book.Titre}");
+                Console.WriteLine(livre.Titre);
             }
-
             Console.WriteLine("---------------------------------------------------------------");
+            Console.WriteLine("");
 
             // 4 - Les auteurs ayant écrit des livres de plus de 400 pages
             Console.WriteLine("Les auteurs ayant écrit des livres de plus de 400 pages :");
             Console.WriteLine("");
-
-            var Auteurs =
-                from livre in ListeLivres
-                where livre.NbPages > 400
-                select livre.Auteur;
-
-            // var BigBooks = ListeLivres.All(b => b.NbPages >= 400);
-
-            foreach (var auteur in Auteurs)
+            var AuteursGrosLivres = ListeLivres.Where(x => x.NbPages > 400);
+            foreach (var auteur in AuteursGrosLivres)
             {
-                Console.WriteLine($"{auteur.Prenom} {auteur.Nom} has written a book with more than 400 pages.");
+                Console.WriteLine($"{auteur.Auteur.Prenom} {auteur.Auteur.Nom}");
             }
-
             Console.WriteLine("---------------------------------------------------------------");
+            Console.WriteLine("");
 
             // 5 - Afficher la liste des livres dont le nombre de pages est supérieur à la moyenne
             Console.WriteLine("Les auteurs ayant écrit des livres dont le nombre de pages est supérieur à la moyenne :");
             Console.WriteLine("");
 
-            var AveragePage = ListeLivres.Average(b => b.NbPages);
-            Console.WriteLine(AveragePage);
-            
-            var BiggerBooks =
-                from livre in ListeLivres
-                where livre.NbPages > AveragePage
-                select livre;
-            
-            foreach (var book in BiggerBooks)
-            {
-                Console.WriteLine($"{book.Titre} has more the number of pages average of the book collection LOL.");
-            }
-
             Console.WriteLine("---------------------------------------------------------------");
+            Console.WriteLine("");
 
             // 6 - Le livre ayant le titre le plus long
             Console.WriteLine("Le livre ayant le titre le plus long :");
             Console.WriteLine("");
-
-            var LongestTitle = ListeLivres.Max(b => b.Titre.Length);
-            var BookWithLongestTitle = 
-                (from livre in ListeLivres
-                where livre.Titre.Length == LongestTitle
-                select livre).First();
-
-            Console.WriteLine(BookWithLongestTitle.Titre);
-
             Console.WriteLine("---------------------------------------------------------------");
+            Console.WriteLine("");
 
             // 7 - Afficher le titre du livre avec le plus de pages
             Console.WriteLine("Afficher le titre du livre avec le plus de pages :");
             Console.WriteLine("");
-
-            var BookMaxPages = ListeLivres.Max(b => b.NbPages);
-            var LongestBookTitle =
-                from livre in ListeLivres
-                where livre.NbPages == BookMaxPages
-                select livre;
-
-            foreach (var book in LongestBookTitle) 
-            {
-                Console.WriteLine(book.Titre);
-            }
-
             Console.WriteLine("---------------------------------------------------------------");
+            Console.WriteLine("");
 
             // 8 - Afficher les auteurs et la liste de leurs livres : GROUP BY
             Console.WriteLine("Afficher les auteurs et la liste de leurs livres :");
             Console.WriteLine("");
-
             Console.WriteLine("---------------------------------------------------------------");
+            Console.WriteLine("");
 
             // 9 - Afficher le nombre moyen de pages des livres par auteur : GROUP BY / AVERAGE 
-
+            Console.WriteLine("Afficher le nombre moyen de pages des livres par auteur");
+            Console.WriteLine("");
             Console.WriteLine("---------------------------------------------------------------");
+            Console.WriteLine("");
 
             // 10 - Afficher l’auteur ayant écrit le plus de livres
-
+            Console.WriteLine("Afficher l’auteur ayant écrit le plus de livres :");
+            Console.WriteLine("");
             Console.WriteLine("---------------------------------------------------------------");
+            Console.WriteLine("");
 
             // 11 - Afficher le montant moyen d'une facture : 
-
+            Console.WriteLine("Afficher le montant moyen d'une facture :");
+            Console.WriteLine("");
             Console.WriteLine("---------------------------------------------------------------");
+            Console.WriteLine("");
 
             // 12 - Afficher l'auteur ayant écrit le moins de livres
-
+            Console.WriteLine("Afficher l'auteur ayant écrit le moins de livres :");
+            Console.WriteLine("");
+            Console.WriteLine("");
         }
     }
 }
