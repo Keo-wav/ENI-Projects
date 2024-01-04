@@ -29,6 +29,7 @@ namespace EscapeGame.Controllers {
             return View();
         }
 
+        // unnecessary [Route("/")] because the writing convention already implies it
         [Route("Machin/Bidule/{id}")]
         public IActionResult Bidule([FromRoute] int id)
         {
@@ -36,9 +37,6 @@ namespace EscapeGame.Controllers {
             return View();
         }
 
-        public IActionResult Jo()
-        {
-            return View();
-        }
+        public IActionResult Jo() {return View();}
     }
 }
