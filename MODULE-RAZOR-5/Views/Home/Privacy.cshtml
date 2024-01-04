@@ -1,6 +1,12 @@
 ﻿@{
     ViewData["Title"] = "Privacy Policy";
 }
-<h1>@ViewData["Title"]</h1>
+
+@model MODULE_RAZOR_5.ViewModels.MessageVM
+
+<h1>@ViewData["Message"]</h1>
+
+<p>Displaying the value sent by Tempdata : @TempData["Message"]</p>
+<p>Affichage via model : @TempData["Message"]</p>
 
 <p>Use this page to detail your site's privacy policy.</p>

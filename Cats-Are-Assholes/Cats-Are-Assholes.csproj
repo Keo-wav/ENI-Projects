@@ -4,7 +4,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <RootNamespace>MODULE_RAZOR_5</RootNamespace>
+    <RootNamespace>Cats_Are_Assholes</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

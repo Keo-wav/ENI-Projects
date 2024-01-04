@@ -1,9 +1,8 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using MODULE_RAZOR_5.Models;
-using MODULE_RAZOR_5.ViewModels;
+﻿using Cats_Are_Assholes.Models;
+using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
-namespace MODULE_RAZOR_5.Controllers
+namespace Cats_Are_Assholes.Controllers
 {
     public class HomeController : Controller
     {
@@ -21,7 +20,6 @@ namespace MODULE_RAZOR_5.Controllers
 
         public IActionResult Privacy()
         {
-            //var vm = new MessageVM() { Message = "Hello" };
             return View();
         }
 
