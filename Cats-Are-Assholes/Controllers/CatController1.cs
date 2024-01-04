@@ -8,7 +8,6 @@ namespace Cats_Are_Assholes.Controllers
         // GET: CatController1
         public ActionResult Index()
         {
-            
             return View();
         }
 
