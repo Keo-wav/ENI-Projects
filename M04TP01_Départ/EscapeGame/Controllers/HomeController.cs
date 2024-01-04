@@ -18,5 +18,17 @@ namespace EscapeGame.Controllers {
         public IActionResult Error() {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+
+        public IActionResult Suite()
+        {
+            return View();
+        }
+
+        [Route("A/{v1}/B/{v2}/C")]
+        public IActionResult Fin([FromRoute] int v1=483, int v2=1)
+        {
+            ViewBag.Valeur = v1 * v2;
+            return View();
+        }
     }
 }
