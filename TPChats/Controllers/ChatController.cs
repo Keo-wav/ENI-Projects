@@ -16,8 +16,12 @@ namespace TPChats.Controllers
         // GET: ChatController/Details/5
         public ActionResult Details(int id)
         {
-            var chatDetail = chats.Find(x => x.Id == id);
-            return View(chatDetail);
+            // var chatDetail = chats.Find(x => x.Id == id);
+            // return View(chatDetail);
+            // correction from Quentin below : 
+            Chat? chat = chats.FirstOrDefault(x => x.Id == id);
+            if (chat == null) return NotFound();
+            return View(chat);
         }
 
         // GET: ChatController/Create
@@ -40,7 +44,15 @@ namespace TPChats.Controllers
             // creation of a new list where we filtered out the id that we want to delete
             chats = chats.Where(c => c.Id != id).ToList();
             return RedirectToAction(nameof(Index));
-           
+
+            // other method (preferred)
+            Chat? chat = chats.FirstOrDefault(x => x.Id == id);
+            if (chat == null) return NotFound();
+            chats.Remove(chat);
+
+            // other method : find index and .RemoveAt(index)
+
+
             //try
             //{
             //    return RedirectToAction(nameof(Index));
