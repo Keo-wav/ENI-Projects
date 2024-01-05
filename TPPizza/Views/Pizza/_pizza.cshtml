@@ -1,0 +1,15 @@
+﻿@model BO.Pizza
+
+<dt class="col-sm-2">
+    @Html.DisplayNameFor(model => model.Ingredients)
+</dt>
+<dd class="col-sm-10">
+    <ul>
+        @foreach (var item in Model.Ingredients)
+        {
+            <li> @Html.DisplayFor(model => item.Nom) </li>
+        }
+    </ul>
+</dd>
+
+
