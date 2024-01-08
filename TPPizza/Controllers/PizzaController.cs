@@ -38,6 +38,8 @@ namespace TPPizza.Controllers
         public ActionResult Details(int id)
         {
             var pizzaDetails = pizzas.FirstOrDefault(p => p.Id == id);
+            if (pizzaDetails == null)
+                return NotFound();
             return View(pizzaDetails);
         }
 
