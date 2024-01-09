@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPDojo", "TPDojo.csproj", "{CF0DA6A4-18A3-4D5A-9F8E-35CA9BA64170}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BO", "BO\BO.csproj", "{D7A9D2F2-1739-45EA-9665-DACFBFB3FF09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF0DA6A4-18A3-4D5A-9F8E-35CA9BA64170}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF0DA6A4-18A3-4D5A-9F8E-35CA9BA64170}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF0DA6A4-18A3-4D5A-9F8E-35CA9BA64170}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF0DA6A4-18A3-4D5A-9F8E-35CA9BA64170}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7A9D2F2-1739-45EA-9665-DACFBFB3FF09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7A9D2F2-1739-45EA-9665-DACFBFB3FF09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7A9D2F2-1739-45EA-9665-DACFBFB3FF09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7A9D2F2-1739-45EA-9665-DACFBFB3FF09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC933AC5-BB6C-422E-B0DC-193E35489FFD}
+	EndGlobalSection
+EndGlobal
