@@ -6,12 +6,11 @@ using System.Threading.Tasks;
 
 namespace Module7DemoEntity
 {
-    public class Personne
+    internal class Adresse
     {
         public int Id { get; set; }
-        public string? Nom { get; set; }
-        public int Age { get; set; }
-        public int AdresseId { get; set; }
-        public virtual Adresse Adresse { get; set; }
+        public string Name { get; set; }
+        public string Description { get; set; }
+        public string City { get; set; }
     }
 }

@@ -10,12 +10,19 @@ namespace Module7DemoEntity
     public class AppContext : DbContext
     {
         public DbSet<Personne> Personnes {  get; set; }
+        public DbSet<Adresse> Adresses { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             base.OnConfiguring(optionsBuilder);
-            optionsBuilder.UseSqlServer("Server=(localdb)\\mssqllocaldb;" + 
+
+            optionsBuilder
+                .UseLazyLoadingProxies()
+                .UseLazyLoadingProxies()
+                .UseSqlServer("Server=(localdb)\\mssqllocaldb;" + 
                 "Database=Module7DemoEntity;" + 
                 "MultipleActiveResultSets=true");
         }
+
+
     }
 }
