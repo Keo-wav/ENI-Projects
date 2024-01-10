@@ -13,4 +13,6 @@ using BO;
         }
 
         public DbSet<BO.Weapon> Weapon { get; set; } = default!;
+
+        public DbSet<BO.Samurai>? Samurai { get; set; }
     }
