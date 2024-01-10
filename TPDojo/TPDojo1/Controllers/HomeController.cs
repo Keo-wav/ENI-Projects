@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
-using TPDojo.Models;
+using TPDojo1.Models;
 
-namespace TPDojo.Controllers
+namespace TPDojo1.Controllers
 {
     public class HomeController : Controller
     {

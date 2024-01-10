@@ -1,4 +1,4 @@
-namespace TPDojo
+namespace TPDojo1
 {
     public class Program
     {

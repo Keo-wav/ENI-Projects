@@ -1,4 +1,4 @@
-namespace TPDojo.Models
+namespace TPDojo1.Models
 {
     public class ErrorViewModel
     {

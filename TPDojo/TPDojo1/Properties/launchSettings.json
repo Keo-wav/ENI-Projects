@@ -3,16 +3,16 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:35844",
+      "applicationUrl": "http://localhost:62080",
       "sslPort": 0
     }
   },
   "profiles": {
-    "TPDojo": {
+    "TPDojo1": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
-      "applicationUrl": "http://localhost:5189",
+      "applicationUrl": "http://localhost:5098",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
