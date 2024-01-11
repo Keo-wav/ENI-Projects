@@ -47,7 +47,11 @@ namespace TPDojo1.Controllers
         // GET: Samurais/Create
         public IActionResult Create()
         {
-            return View();
+            var samuraiVM = new Samurai
+            {
+                
+            };
+            return View(samuraiVM);
         }
 
         // POST: Samurais/Create
